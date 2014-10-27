@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  readfile(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in <b>/home/apkcraft/public_html/controllers/download.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  readfile(http://files.apkcraft.com/com.glbenchmark.glbenchmark27.apk): failed to open stream: php_network_getaddresses: getaddrinfo failed: No address associated with hostname in <b>/home/apkcraft/public_html/controllers/download.php</b> on line <b>62</b><br />
